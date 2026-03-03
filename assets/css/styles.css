@@ -1,5 +1,28 @@
 /* styles.css */
 
-* {
+/* * {
 	font-family: Arial;
 }
+ */
+
+.container-fluid {
+	background-color: aquamarine;
+	background-image: url("../img/nofinley.jpg");
+	height: 100vh;
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.pink {
+	background-color: rgb(231, 150, 240);
+}
+
+ .text {
+	position: absolute;
+	top: 150px
+	left:
+	transform:
+	font-size: 
+ }
